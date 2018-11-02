@@ -1,0 +1,30 @@
+{
+  "user": {
+    "attributes": {
+      "bdate": {
+        "appearance": ""
+      },
+      "blocked": {
+        "appearance": ""
+      },
+      "ocupation": {
+        "appearance": ""
+      },
+      "created": {
+        "appearance": ""
+      },
+      "name": {
+        "appearance": ""
+      },
+      "active": {
+        "appearance": ""
+      },
+      "code": {
+        "appearance": ""
+      },
+      "imgUrl": {
+        "appearance": ""
+      }
+    }
+  }
+}

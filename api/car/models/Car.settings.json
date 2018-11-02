@@ -1,0 +1,22 @@
+{
+  "connection": "default",
+  "collectionName": "car",
+  "info": {
+    "name": "car",
+    "description": "Carros"
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "imageUrl": {
+      "type": "string"
+    }
+  }
+}

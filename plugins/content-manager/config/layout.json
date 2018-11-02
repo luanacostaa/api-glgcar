@@ -1,0 +1,299 @@
+{
+  "post": {
+    "attributes": {
+      "title": {
+        "appearance": ""
+      },
+      "content": {
+        "appearance": "WYSIWYG"
+      }
+    }
+  },
+  "product": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      },
+      "description": {
+        "appearance": "WYSIWYG"
+      }
+    }
+  },
+  "tag": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      }
+    }
+  },
+  "category": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      }
+    }
+  },
+  "uniform": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      },
+      "amount": {
+        "appearance": ""
+      },
+      "created": {
+        "appearance": ""
+      },
+      "description": {
+        "appearance": ""
+      },
+      "active": {
+        "appearance": ""
+      },
+      "code": {
+        "appearance": ""
+      },
+      "imgUrl": {
+        "appearance": ""
+      },
+      "returned": {
+        "appearance": ""
+      }
+    }
+  },
+  "statusUniform": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      },
+      "description": {
+        "appearance": ""
+      },
+      "created": {
+        "appearance": ""
+      },
+      "code": {
+        "appearance": ""
+      },
+      "active": {
+        "appearance": ""
+      }
+    }
+  },
+  "typeUniform": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      },
+      "created": {
+        "appearance": ""
+      },
+      "description": {
+        "appearance": ""
+      },
+      "code": {
+        "appearance": ""
+      },
+      "active": {
+        "appearance": ""
+      }
+    }
+  },
+  "requisition": {
+    "attributes": {
+      "created": {
+        "appearance": ""
+      }
+    }
+  },
+  "statusRequest": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      },
+      "created": {
+        "appearance": ""
+      },
+      "description": {
+        "appearance": ""
+      },
+      "code": {
+        "appearance": ""
+      },
+      "active": {
+        "appearance": ""
+      }
+    }
+  },
+  "devolution": {
+    "attributes": {
+      "created": {
+        "appearance": ""
+      },
+      "description": {
+        "appearance": ""
+      },
+      "active": {
+        "appearance": ""
+      },
+      "code": {
+        "appearance": ""
+      },
+      "cr": {
+        "appearance": ""
+      }
+    }
+  },
+  "statusDevolution": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      },
+      "created": {
+        "appearance": ""
+      },
+      "description": {
+        "appearance": ""
+      },
+      "code": {
+        "appearance": ""
+      },
+      "active": {
+        "appearance": ""
+      }
+    }
+  },
+  "request": {
+    "attributes": {
+      "description": {
+        "appearance": ""
+      },
+      "active": {
+        "appearance": ""
+      },
+      "code": {
+        "appearance": ""
+      },
+      "cr": {
+        "appearance": ""
+      }
+    }
+  },
+  "customer": {
+    "attributes": {
+      "nome": {
+        "appearance": ""
+      },
+      "document": {
+        "appearance": ""
+      },
+      "email": {
+        "appearance": ""
+      },
+      "address": {
+        "appearance": ""
+      },
+      "active": {
+        "appearance": ""
+      },
+      "code": {
+        "appearance": ""
+      },
+      "description": {
+        "appearance": ""
+      },
+      "phone": {
+        "appearance": ""
+      },
+      "cel": {
+        "appearance": ""
+      }
+    }
+  },
+  "provider": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      },
+      "code": {
+        "appearance": ""
+      },
+      "phone": {
+        "appearance": ""
+      },
+      "cel": {
+        "appearance": ""
+      },
+      "address": {
+        "appearance": ""
+      },
+      "active": {
+        "appearance": ""
+      },
+      "email": {
+        "appearance": ""
+      },
+      "description": {
+        "appearance": ""
+      }
+    }
+  },
+  "statusOrder": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      },
+      "code": {
+        "appearance": ""
+      },
+      "active": {
+        "appearance": ""
+      },
+      "description": {
+        "appearance": ""
+      }
+    }
+  },
+  "order": {
+    "attributes": {
+      "description": {
+        "appearance": ""
+      },
+      "code": {
+        "appearance": ""
+      },
+      "active": {
+        "appearance": ""
+      }
+    }
+  },
+  "status": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      },
+      "description": {
+        "appearance": ""
+      },
+      "code": {
+        "appearance": ""
+      },
+      "active": {
+        "appearance": ""
+      }
+    }
+  },
+  "car": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      },
+      "description": {
+        "appearance": ""
+      },
+      "imageUrl": {
+        "appearance": ""
+      }
+    }
+  }
+}
