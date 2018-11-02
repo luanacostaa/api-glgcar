@@ -17,6 +17,9 @@
     },
     "imageUrl": {
       "type": "string"
+    },
+    "code": {
+      "type": "integer"
     }
   }
 }

@@ -293,6 +293,9 @@
       },
       "imageUrl": {
         "appearance": ""
+      },
+      "code": {
+        "appearance": ""
       }
     }
   }
