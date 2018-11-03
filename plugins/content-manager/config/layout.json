@@ -296,6 +296,9 @@
       },
       "code": {
         "appearance": ""
+      },
+      "price": {
+        "appearance": ""
       }
     }
   }

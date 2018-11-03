@@ -20,6 +20,9 @@
     },
     "code": {
       "type": "integer"
+    },
+    "price": {
+      "type": "integer"
     }
   }
 }
